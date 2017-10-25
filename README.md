@@ -1,3 +1,3 @@
 # hello-world
 my first project!
-slightly above average human :)
+written by a slightly above average human :)
